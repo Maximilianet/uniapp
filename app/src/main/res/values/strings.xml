@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">uniapp</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="contact_form_name">Ваше имя</string>
+    <string name="contact_form_email">Ваша почта</string>
+    <string name="contact_form_message">Сообщение</string>
+    <string name="contact_form_button">Отправить сообщение</string>
+    <string name="nav_logout">\???</string>
+    <string name="nav_accout">\???!</string>
 </resources>
